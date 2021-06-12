@@ -1,0 +1,11 @@
+{
+  "name": "HTTP_SERVER",
+  "version": "1.0.0",
+  "description": "A sever with http package",
+  "main": "index.js",
+  "author": "justice sowah",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
